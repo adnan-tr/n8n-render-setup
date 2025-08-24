@@ -1,12 +1,8 @@
 {
   "name": "n8n-render",
   "version": "1.0.0",
-  "description": "n8n on Render with PostgreSQL",
-  "main": "index.js",
+  "description": "n8n on Render",
   "scripts": {
     "start": "n8n start"
-  },
-  "dependencies": {
-    "n8n": "^1.19.4"
   }
 }
